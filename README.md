@@ -1,0 +1,2 @@
+# Bamazon
+Homework week12
