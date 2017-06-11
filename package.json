@@ -1,0 +1,15 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon online store",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trong Do",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.1.0",
+    "mysql": "^2.13.0"
+  }
+}
